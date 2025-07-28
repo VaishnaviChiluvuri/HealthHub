@@ -1,7 +1,7 @@
 # HealthHub
 HealthHub is a full-stack Hospital Management System designed to streamline and digitize the operations of hospitals and clinics. Built using the MERN Stack (MongoDB, Express.js, React, Node.js), this platform provides a seamless experience for patients, doctors, and administrators to manage appointments, prescriptions, billing, and overall hospital workflows through a secure and responsive web interface.
 
-#🎯 Project Objectives:
+**🎯 Project Objectives:**
 
 * Enable patients to book and manage appointments with doctors online.
 
@@ -14,14 +14,15 @@ HealthHub is a full-stack Hospital Management System designed to streamline and 
 * Ensure a secure, user-friendly interface for all users with role-based access control.
 
 
-#Tech Stack:
-Frontend: React, Vite, React Router, Axios
+**Tech Stack:**
 
-Backend: Node.js, Express.js
+**Frontend:** React, Vite, React Router, Axios
 
-Database: MongoDB with Mongoose
+**Backend:** Node.js, Express.js
 
-Authentication: JWT, bcrypt
+**Database:** MongoDB with Mongoose
 
-Other Tools: Multer (file uploads), Chart.js (admin stats), dotenv, CORS
+**Authentication:** JWT, bcrypt
+
+**Other Tools:** Multer (file uploads), Chart.js (admin stats), dotenv, CORS
 
