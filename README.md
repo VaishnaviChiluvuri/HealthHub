@@ -3,13 +3,13 @@ HealthHub is a full-stack Hospital Management System designed to streamline and 
 
 🎯 Project Objectives:
 
-Enable patients to book and manage appointments with doctors online.
+* Enable patients to book and manage appointments with doctors online.
 
-Allow doctors to approve/reject appointments, issue prescriptions, and manage their profiles.
+* Allow doctors to approve/reject appointments, issue prescriptions, and manage their profiles.
 
-Help administrators oversee hospital operations, including doctors, patients, appointments, and billing.
+* Help administrators oversee hospital operations, including doctors, patients, appointments, and billing.
 
-Generate invoices and track payments efficiently.
+* Generate invoices and track payments efficiently.
 
-Ensure a secure, user-friendly interface for all users with role-based access control.
+* Ensure a secure, user-friendly interface for all users with role-based access control.
 
